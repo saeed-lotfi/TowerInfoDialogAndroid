@@ -1,0 +1,3 @@
+include ':towerinfodialog'
+include ':app'
+rootProject.name = "TowerInfoDialogAndroid"
