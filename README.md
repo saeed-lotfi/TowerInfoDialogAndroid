@@ -4,7 +4,7 @@
 # TowerDialogAndroid
 
 
-<img src="https://raw.githubusercontent.com/saeed-lotfi/TowerDialogAndroid/master/raw/error.png" width="300">   <img src="https://raw.githubusercontent.com/saeed-lotfi/TowerDialogAndroid/master/raw/success.png" width="300">
+   <img src="https://raw.githubusercontent.com/saeed-lotfi/TowerInfoDialogAndroid/master/raw/success.png" width="300"> <img src="https://raw.githubusercontent.com/saeed-lotfi/TowerInfoDialogAndroid/master/raw/error.png" width="300">
 
 
 
@@ -28,7 +28,7 @@ Add it in your root build.gradle at the end of repositories:
 
 ```
 dependencies {
-	  implementation 'com.github.saeed-lotfi:TowerDialogAndroid:1.0.0'
+	  implementation 'com.github.saeed-lotfi:TowerInfoDialogAndroid:1.0.0'
 }
 ```
 ## How To Use
